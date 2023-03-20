@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+  "aji",
+  "honsaba",
+  "shiomasu",
+  "sabaneko"
+]
